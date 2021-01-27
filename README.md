@@ -5,7 +5,7 @@
   <samp>
     :wave: Hi! I'm Elena.
     <br>
-    I'm currently a software engineer <strong><a href="https://https://www.maxadesigns.com//">MAXA designs</a></strong> based in 🌁 California. I am working on some side projects, learning a couple new.<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+    I'm currently a software engineer <strong><a href="https://www.maxadesigns.com">MAXA designs</a></strong> based in 🌁 California. I am working on some side projects, learning a couple new.<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
     <br>
 <!--     <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center"> -->
     
